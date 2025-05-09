@@ -1,0 +1,15 @@
+openapi: 3.0.1
+info:
+  title: monster-pegasus
+  x-cortex-tag: monster-pegasus
+  x-cortex-custom-metadata:
+    alignment: chaotic-neutral
+    type: celestial
+    challenge_rating: 2
+    legendary: false
+    source: dnd-5e
+  x-cortex-type: monster
+  x-cortex-git:
+    github:
+      repository: xycia-cortex/monster-pegasus
+      alias: github-token-test
