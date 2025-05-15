@@ -1,0 +1,17 @@
+openapi: 3.0.1
+info:
+  title: monster-pegasus
+  x-cortex-tag: monster-pegasus
+  x-cortex-custom-metadata:
+    alignment: chaotic-good
+    type: ooze
+    challenge_rating: 14
+    legendary: false
+    armor_class: 17
+    hit_points: 154
+    source: dnd-5e
+  x-cortex-type: monster
+  x-cortex-git:
+    github:
+      repository: xycia-cortex/monster-pegasus
+      alias: github-token-test
